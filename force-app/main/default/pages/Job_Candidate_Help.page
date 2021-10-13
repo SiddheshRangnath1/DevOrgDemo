@@ -1,0 +1,7 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Hepl for the Cndidate Object</h1>
+  <p>Candidate Object is for Identified and Tracking candidates for job position</p>
+  <p>Sort Candidates by Name,Location, Last Modified and Prospect Rating</p>
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>
