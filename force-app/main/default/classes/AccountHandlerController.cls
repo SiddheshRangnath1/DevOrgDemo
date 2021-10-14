@@ -1,5 +1,6 @@
 public class AccountHandlerController 
 {
+    //Updated Comment//
  	public static void onBeforeInsert(List<Account> AccountList) 
     {
         /*call before insert actions*/
